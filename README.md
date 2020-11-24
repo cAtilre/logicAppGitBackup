@@ -1,5 +1,5 @@
 # Logic App backup tool
-![Docker Pulls](https://img.shields.io/docker/pulls/catilre/logicappbackup.svg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/catilre/logicappbackup.svg)](https://hub.docker.com/r/catilre/logicappbackup)
 
 This is a docker container that will fetch all logic apps from a specified Azure instance and push them into a designated github repository.
 
